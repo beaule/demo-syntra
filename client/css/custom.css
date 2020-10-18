@@ -18,7 +18,7 @@
 .pulse {
     width: 10px;
     height: 10px;
-    border: 5px solid #2d89cc;
+    border: 5px solid #9c1f1e;
     -webkit-border-radius: 30px;
     -moz-border-radius: 30px;
     border-radius: 30px;
@@ -28,7 +28,7 @@
     box-sizing: border-box;
 }
 .map-marker .dot {
-    border: 10px solid #2d89cc;
+    border: 10px solid #9c1f1e;
     background: transparent;
     -webkit-border-radius: 60px;
     -moz-border-radius: 60px;
